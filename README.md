@@ -1,1 +1,1 @@
-# yagpt_fullscreen
+Скрипт для расширения Tampermonkey, открывает YaGPT во весь экран.
